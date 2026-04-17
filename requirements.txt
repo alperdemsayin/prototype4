@@ -1,0 +1,4 @@
+ortools>=9.7
+streamlit>=1.35
+plotly>=5.18
+pandas>=2.0
